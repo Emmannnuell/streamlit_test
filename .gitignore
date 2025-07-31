@@ -1,0 +1,17 @@
+# Entornos virtuales (si usas .venv para tus paquetes)
+.venv/
+env/
+
+# Archivos temporales generados por Python
+__pycache__/
+*.pyc
+
+# Archivos invisibles del sistema
+.DS_Store
+Thumbs.db
+
+# Configuración local de VS Code (no necesaria en GitHub)
+.vscode/
+
+# Archivos con variables sensibles (si algún día usas claves privadas)
+.env
